@@ -6,5 +6,5 @@ This is a task manager I made for myself at work.  It is globally readable, mean
 
 ## Building
 ```
-$ podman build -t quay.io/robbmanes/rmtodo:latest Containerfile
+$ podman build -t quay.io/robbmanes/rmtodo:latest .
 ```
